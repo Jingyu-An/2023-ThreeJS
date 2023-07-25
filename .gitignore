@@ -1,3 +1,4 @@
 # dependencies
 **/node_modules
 .idea/
+**/00-sample
